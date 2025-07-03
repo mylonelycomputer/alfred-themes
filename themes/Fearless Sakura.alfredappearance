@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 13,
+        "colorSelected" : "#D0CACECC",
+        "font" : "Helvetica Neue",
+        "color" : "#C3ACC8FF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#DABDE2E5",
+        "font" : "Helvetica Neue",
+        "color" : "#C3ACC87F"
+      },
+      "backgroundSelected" : "#DD8ECEB2",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#F7EFF5FF",
+        "font" : "Helvetica Neue",
+        "color" : "#F7EFF5D8"
+      },
+      "iconPaddingHorizontal" : 14,
+      "roundness" : 0,
+      "paddingVertical" : 8,
+      "iconSize" : 33
+    },
+    "search" : {
+      "backgroundSelected" : "#AB96CB00",
+      "paddingHorizontal" : 7,
+      "spacing" : 0,
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#D3BC67FF",
+        "font" : "Helvetica Neue",
+        "color" : "#D3BC67FF"
+      },
+      "background" : "#45B69500",
+      "roundness" : 0,
+      "paddingVertical" : 4
+    },
+    "window" : {
+      "color" : "#8A74ADD9",
+      "paddingHorizontal" : 0,
+      "width" : 520,
+      "borderPadding" : 4,
+      "borderColor" : "#00000000",
+      "blur" : 40,
+      "roundness" : 8,
+      "paddingVertical" : 7
+    },
+    "credit" : "E.L. Guerrero",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#7A7B7AFF",
+      "thickness" : 0
+    },
+    "name" : "Fearless Sakura"
+  }
+}

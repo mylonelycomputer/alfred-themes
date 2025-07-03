@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#E5E4E6CC",
+        "font" : "Helvetica Neue",
+        "color" : "#D2E9DCB2"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFE5",
+        "font" : "Helvetica Neue",
+        "color" : "#E3E4F87F"
+      },
+      "backgroundSelected" : "#DD8ECECB",
+      "text" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue",
+        "color" : "#FFFFFFD8"
+      },
+      "iconPaddingHorizontal" : 7,
+      "roundness" : 11,
+      "paddingVertical" : 5,
+      "iconSize" : 34
+    },
+    "search" : {
+      "backgroundSelected" : "#45B69500",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 25,
+        "colorSelected" : "#FEFFFEFF",
+        "font" : "Helvetica Neue",
+        "color" : "#EAEAEAFF"
+      },
+      "background" : "#4C8A7100",
+      "roundness" : 0,
+      "paddingVertical" : 1
+    },
+    "window" : {
+      "color" : "#5DAA8BF1",
+      "paddingHorizontal" : 3,
+      "width" : 485,
+      "borderPadding" : 64,
+      "borderColor" : "#00000000",
+      "blur" : 40,
+      "roundness" : 9,
+      "paddingVertical" : 6
+    },
+    "credit" : "E.L. Guerrero",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#7A7B7AFF",
+      "thickness" : 4
+    },
+    "name" : "Magic Girl"
+  }
+}

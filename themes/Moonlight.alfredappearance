@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#ECEEF3CC",
+        "font" : "Helvetica Neue",
+        "color" : "#ECEEF37F"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#E3E3F8E5",
+        "font" : "Helvetica Neue",
+        "color" : "#E3E4F87F"
+      },
+      "backgroundSelected" : "#B07BAAD8",
+      "text" : {
+        "size" : 15,
+        "colorSelected" : "#DFC3E2FF",
+        "font" : "Helvetica Neue",
+        "color" : "#ECEEF3D8"
+      },
+      "iconPaddingHorizontal" : 14,
+      "roundness" : 0,
+      "paddingVertical" : 5,
+      "iconSize" : 34
+    },
+    "search" : {
+      "backgroundSelected" : "#45B69500",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#DFC3E2FF",
+        "font" : "Helvetica Neue",
+        "color" : "#DFC3E2FF"
+      },
+      "background" : "#45B69500",
+      "roundness" : 0,
+      "paddingVertical" : 1
+    },
+    "window" : {
+      "color" : "#956E9AD9",
+      "paddingHorizontal" : 0,
+      "width" : 522,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 40,
+      "roundness" : 8,
+      "paddingVertical" : 8
+    },
+    "credit" : "E.L. Guerrero",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#7A7B7AFF",
+      "thickness" : 0
+    },
+    "name" : "Moonlight"
+  }
+}

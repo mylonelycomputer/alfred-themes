@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 13,
+        "colorSelected" : "#D0CACECC",
+        "font" : "Helvetica Neue",
+        "color" : "#C3ACC8FF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#DABDE2E5",
+        "font" : "Helvetica Neue",
+        "color" : "#C6BEC67F"
+      },
+      "backgroundSelected" : "#AA70ACB2",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#EFE3EFFF",
+        "font" : "Helvetica Neue",
+        "color" : "#C6BEC6D8"
+      },
+      "iconPaddingHorizontal" : 14,
+      "roundness" : 0,
+      "paddingVertical" : 5,
+      "iconSize" : 38
+    },
+    "search" : {
+      "backgroundSelected" : "#AB96CB00",
+      "paddingHorizontal" : 9,
+      "spacing" : 1,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#D3A3D3FF",
+        "font" : "Helvetica Neue",
+        "color" : "#D3A3D3FF"
+      },
+      "background" : "#45B69500",
+      "roundness" : 0,
+      "paddingVertical" : 7
+    },
+    "window" : {
+      "color" : "#606F99D9",
+      "paddingHorizontal" : 0,
+      "width" : 534,
+      "borderPadding" : 4,
+      "borderColor" : "#00000000",
+      "blur" : 40,
+      "roundness" : 8,
+      "paddingVertical" : 5
+    },
+    "credit" : "E.L. Guerrero",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#7A7B7AFF",
+      "thickness" : 0
+    },
+    "name" : "Night Sakura"
+  }
+}
